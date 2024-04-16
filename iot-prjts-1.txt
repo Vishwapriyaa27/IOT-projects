@@ -1,0 +1,20 @@
+-Smart Mirror
+-Smart Money Transfer
+-IoT based Smart arm
+-Smart Irrigation
+-Smart Door
+-Air Monitoring System
+-Smart Alarm Clock
+-IoT based Weather Reporting System
+-Smart Wheelchair
+-Smart Street Light System
+-Smart Agriculture System
+-Home Automation System
+-Face Recognition Bot
+-Air Pollution Monitoring System
+-Smart Parking System Project
+-Smart Cradle System Project
+-Smart Gas Leakage Detector Bot
+-Liquid Level Monitoring System
+-Night Patrol Robot
+-Health Monitoring System
